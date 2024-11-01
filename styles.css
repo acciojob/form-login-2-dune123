@@ -1,1 +1,10 @@
 /*  your css code here. If applicable */
+form{
+    display: flex;
+    flex-direction: column;
+    width:30vw;
+}
+
+button{
+    margin-top:1vh;
+}
